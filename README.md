@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the development of `Microsoft 365`.
 - 🌱 I’m currently learning defensive skills (physically).
